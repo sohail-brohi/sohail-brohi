@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/sohail-brohi/sohail-brohi/main/github_profile_banner.png" alt="Profile Banner" width="100%" />
+
 # Muhammad Sohail Brohi
-### **Senior Full-Stack Engineer & Mobile Solutions Architect**
-**Founder @ CodeBotX | Multi-Platform Digital Studio**
+### **Senior Systems Architect & Full-Stack Solutions Lead**
+**Founder @ CodeBotX | Architecting High-Performance Enterprise Ecosystems**
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohail-brohi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sohailbrohi.com)
@@ -10,87 +12,91 @@
 
 ---
 
-*"Architecting digital transformations through technical excellence and precision-engineered code."*
+*"Engineering high-stakes digital products with precision, performance, and purpose across the entire technology stack."*
 
 </div>
 
 ---
 
-### 🏛️ Professional Summary
+### 👨‍💻 Professional Profile
 
-I am a **Senior Full-Stack Developer** and the lead visionary at **CodeBotX**, a full-scale digital studio. With a track record of delivering **+70 high-impact projects** and facilitating over **$10M in capital raised** for clients, I specialize in building scalable architectures for Web and Mobile.
+I am a **Senior Systems Architect** with a specialized focus on **Cross-Platform Ecosystems**, **Digital Signal Processing (DSP)**, and **AI-Driven Infrastructure**. As the founder of **CodeBotX**, I lead a multidisciplinary team dedicated to delivering high-impact digital transformations for global visionaries.
 
-My expertise lies in bridging the gap between innovative design and robust engineering, utilizing the latest in **Next.js**, **React Native**, and **Cloud Infrastructure** to deliver market-ready products.
-
----
-
-### 🚀 Key Projects & Impact
-
-#### 🔹 [EZToolX Ecosystem](https://github.com/sohail-brohi/eztoolx)
-*A Universal Media Toolkit Ecosystem.*
-- **Outcome**: Delivered a multi-platform solution (Web/iOS/Android) for high-speed video/audio processing.
-- **Tech**: Next.js 16, Tailwind 4, React Native (Expo), Node.js Microservices.
-- **Impact**: Real-time progress tracking, background processing, and seamless cross-platform synchronization.
-
-#### � [SampleThis Marketplace](https://github.com/sohail-brohi/samplethis)
-*High-Frequency E-commerce & Logistics Platform.*
-- **Role**: Lead Architect.
-- **Milestones**: Integrated complex payment gateways, automated delivery workflows, and optimized caching layers for peak performance.
-- **Value**: Enabled seamless global transactions and robust inventory management.
-
-#### 🔹 [Ivani Smart-map](https://github.com/sohail-brohi/ivani-smart-map)
-*Industrial IoT & Spatial Visualization.*
-- **Innovation**: Developed WebGL-based real-time floor plan visualization for smart building monitoring.
-- **Scale**: Connected thousands of IoT sensors across a unified dashboard for enterprise efficiency.
+With a portfolio of **+70 enterprise-grade deployments**, I bridge the gap between low-level performance (C++/JUCE/Rust) and high-level web scalability (Next.js/React Native/Cloud-Native).
 
 ---
 
-### �️ Technical Arsenal
+### 🛠️ Strategic Tech Arsenal
 
-| Domain | Expert Command |
+| Domain | Expert Tech Stack |
 | :--- | :--- |
-| **Web Infrastructure** | Next.js 16 (App Router), React, TypeScript, Tailwind 4, Framer Motion |
-| **Mobile Engineering** | React Native, Expo, Flutter, Swift, Kotlin, NativeWind |
-| **Backend & Cloud** | Node.js, Express, Prisma, MongoDB, PostgreSQL, Supabase |
-| **DevOps & Integrity** | Docker, Vercel, GitHub Actions, CI/CD, Unit Testing (Vitest) |
-| **Emerging Tech** | AI Integration (OpenAI API), Machine Learning (TensorFlow), WebGL |
+| **System & DSP** | C++, JUCE Framework, VST3/AU Plugins, CMake, RubberBand, FFT Processing, Rust |
+| **Full-Stack Web** | Next.js 16 (App Router), React 19, TypeScript, Tailwind 4, Framer Motion, GSAP |
+| **Mobile & Desktop** | React Native, Expo, Flutter, Tauri (Desktop Rust), Electron, Swift, Kotlin |
+| **Intelligence** | OpenAI API, Grok (xAI), LangChain, Vector Databases, MCP (Model Context Protocol), TensorFlow |
+| **Infrastructure** | Node.js, Prisma, PostgreSQL, MongoDB, Redis, Docker, AWS, GitHub Actions, CI/CD |
 
 ---
 
-### 📜 Certifications & Education
+### 🌟 Project Portfolio & Impact Case Studies
 
-- 🎓 **Certified Next.js Developer** – Advanced Application Architecture.
-- 🎓 **Udemy Professional** – React & Node.js Excellence.
-- 💡 **Open Source Contributor** – Active participant in the modern JS ecosystem.
+#### 🎹 **High-Performance Audio & DSP**
+- **[BOTANIFY](https://github.com/sohail-brohi/botanify)**: A premium VST3/AU audio plugin featuring advanced vocoding and real-time pitch shifting using C++ & JUCE.
+- **[Audio Sampler](https://github.com/sohail-brohi/botanify)**: Custom high-quality audio sampling engine with optimized memory management.
+
+#### 🤖 **AI & Intelligent Systems**
+- **[NextChat AI](https://github.com/sohail-brohi/nextchat)**: A light and fast cross-platform AI assistant (Tauri/Next.js) with native **MCP** support for secure model interaction.
+- **[DealChek AI](https://github.com/sohail-brohi/dealchek)**: An intelligent PropTech-analyzer using **xAI (Grok)** to evaluate financial feasibility for real estate deals.
+- **[Parallel Chatbot](https://github.com/sohail-brohi/parallel_chatbot)**: High-concurrency AI agent system for automated customer engagement and support.
+
+#### 🕸️ **Industrial IoT & Architecture**
+- **[Ivani Smart-map](https://github.com/sohail-brohi/ivani-smart-map)**: Real-time enterprise spatial visualization using **WebGL** to optimize energy waste in industrial facilities.
+- **[Valdi Framework](https://github.com/sohail-brohi/valdi)**: A cross-platform UI framework (used at scale by Snap) that compiles declarative TS to native views without bridges.
+- **[Aparavi Data Hub](https://github.com/sohail-brohi/aparavi)**: Enterprise data management and governance platform for large-scale unstructured data.
+
+#### 🚢 **Digital Commerce & Logistics**
+- **[Shipping-Automation (GBF)](https://github.com/sohail-brohi/shipping-automation)**: High-throughput API bridge for Shopify stores handling thousands of automated fulfillment records daily.
+- **[Hilma-Biocare](https://github.com/sohail-brohi/hilma-biocare)**: Advanced pharmacy e-commerce ecosystem with global inventory sync and secure logistics.
+- **[Oncotect Med-Tech](https://github.com/sohail-brohi/oncotect)**: Bridging physical diagnostic kits with a digital laboratory tracking chain for precision pet care.
+- **[Covernomad Reports](https://github.com/sohail-brohi/covernomad-reports)**: Automated financial reporting and analytics platform for high-volume insurance providers.
+
+#### 🛡️ **Web3 & Digital Certification**
+- **[Mentaport SDK](https://github.com/sohail-brohi/mentaport)**: Monorepo-based SDK for watermarking and certifying creative works using decentralised certification protocols.
+
+#### � **Social Ecosystems & UI Mastery**
+- **[Instagram Clone](https://github.com/sohail-brohi/instagram-clone)**: Full-feature social platform demonstrating complex real-time feeds and image processing in React Native.
+- **[Uber Clone](https://github.com/sohail-brohi/uber)**: Real-time map-based ride-hailing simulation with complex driver/rider synchronization.
+- **[Facebook React Native](https://github.com/sohail-brohi/Facebook-React-native)**: High-fidelity mobile UI/UX exploration of the modern social graph.
 
 ---
 
-### 📊 Performance Metrics
+### 💭 Executive Testimonials
+
+> *"Codebotx consistently delivers clean, scalable solutions at true startup speed. Their ability to bridge low-level performance with high-level UX is rare and invaluable."*
+> — **Amedeo Della Serra**, Co-Founder @ SampleThis
+
+> *"Their technical excellence and partnership transformed our vision into a market-ready industrial IoT solution flawlessly."*
+> — **Shellie Summers**, Operations Lead @ Ivani
+
+---
+
+### 📊 Engineering Excellence & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohail-brohi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail-brohi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-brohi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🎯 Core Principles
-
-1. **Innovation**: Constantly pushing the boundaries of what's possible with modern frameworks.
-2. **Accountability**: Taking full ownership of project lifecycles from ideation to deployment.
-3. **Security**: Implementing enterprise-grade data integrity and protection practices.
-4. **User-Centricity**: Ensuring every line of code translates into a delightful user experience.
-
 ---
 
 <div align="center">
 
-### [Let's Build Something Exceptional](https://sohailbrohi.com/contact)
+### [Schedule a Strategic Engineering Consultation](https://sohailbrohi.com/contact)
 
-*Based in Punjab, Pakistan | Serving Visionaries Worldwide*
+*Currently accepting high-stakes projects, architectural audit roles, and strategic product developments.*
+
+---
+
+*Serving Global Visionaries Worldwide | Based in Punjab, Pakistan*
 
 </div>
