@@ -85,81 +85,6 @@ I build **high-performance, scalable, and mobile-first web applications** at **[
 
 ---
 
-<div align="center">
-
-## 🌟 Featured Project
-
-### 🎵 SampleThis
-
-> A world-class music sample marketplace — subscriptions, payments & producer tools
-
-</div>
-
-🔗 **Live:** [samplethis.com](https://samplethis.com)
-
-<p align="center">
-  <a href="https://samplethis.com" target="_blank">
-    <img src="https://image.thum.io/get/width/900/crop/500/noanimate/https://samplethis.com" alt="SampleThis Preview" width="90%"/>
-  </a>
-</p>
-
-| Tech                 | Features                                    |
-| -------------------- | ------------------------------------------- |
-| Next.js + TypeScript | 🎧 Sample marketplace & subscription tiers  |
-| Prisma + PostgreSQL  | 💳 Payments, storage & caching              |
-| Tailwind CSS         | 📊 Analytics, auctions & artist collections |
-| Vercel + DevOps      | ⚡ Production-grade performance at scale     |
-
----
-
-<div align="center">
-
-## 🚀 Projects Showcase
-
-> Production apps built at **CodeBotX** and for clients — not public GitHub repos.
-
-### 🏢 CodeBotX — Production
-
-</div>
-
-<p align="center">
-  <a href="https://samplethis.com"><img src="https://image.thum.io/get/width/420/crop/260/noanimate/https://samplethis.com" alt="SampleThis" width="48%"/></a>
-  &nbsp;
-  <a href="https://hilmabiocare.com"><img src="https://image.thum.io/get/width/420/crop/260/noanimate/https://hilmabiocare.com" alt="Hilma Biocare" width="48%"/></a>
-</p>
-<p align="center">
-  <a href="https://oncotect.co"><img src="https://image.thum.io/get/width/420/crop/260/noanimate/https://oncotect.co" alt="Oncotect" width="48%"/></a>
-  &nbsp;
-  <a href="https://wayveuk.com"><img src="https://image.thum.io/get/width/420/crop/260/noanimate/https://wayveuk.com" alt="Wayve" width="48%"/></a>
-</p>
-<p align="center">
-  <a href="https://medipek.de"><img src="https://image.thum.io/get/width/420/crop/260/noanimate/https://medipek.de" alt="MediPek" width="48%"/></a>
-  &nbsp;
-  <a href="https://codebotx.com"><img src="https://image.thum.io/get/width/420/crop/260/noanimate/https://codebotx.com" alt="CodeBotX" width="48%"/></a>
-</p>
-
-| 🛠 Project             | 📊 Status | 🔗 Link                                      | 📝 Description                                                         |
-| ---------------------- | --------- | -------------------------------------------- | ---------------------------------------------------------------------- |
-| 🎵 **SampleThis**      | ✅ Live   | [samplethis.com](https://samplethis.com)     | Music sample marketplace — subscriptions, payments & producer tools    |
-| 💊 **Hilma Biocare**   | ✅ Live   | [hilmabiocare.com](https://hilmabiocare.com) | Pharma e-commerce — inventory, cart, checkout & admin dashboard        |
-| 🐾 **Oncotect**        | ✅ Live   | [oncotect.co](https://oncotect.co)           | Pet cancer screening e-commerce — Shopify, kits & fulfilment flows     |
-| 🚗 **Wayve**           | ✅ Live   | [wayveuk.com](https://wayveuk.com)           | Marketplace platform — payments, delivery workflows & live chat        |
-| 🏠 **Ivani Smart-map** | ✅ Live   | [codebotx.com](https://codebotx.com)         | Smart home mapping — IoT connectivity & WebGL floor-plan visualization |
-
-### 🛠 Client & SaaS Builds
-
-| 🛠 Project                 | 📊 Status | 🔗 Link                          | 📝 Description                                                                |
-| -------------------------- | --------- | -------------------------------- | ----------------------------------------------------------------------------- |
-| 🏥 **MediPek**             | ✅ Live   | [medipek.de](https://medipek.de) | Digital clinic check-in SaaS — QR onboarding, doctor queues & JWT auth        |
-| 💄 **AK Traders**          | ✅ Built  | —                                | Cosmetics trading platform — luxury showcase + internal ERP & invoicing       |
-| 💇 **SalonPro**            | ✅ Built  | —                                | Salon booking monorepo — Expo mobile app, Next.js portals & Firebase payments |
-| 📱 **Vidmate**             | ✅ Built  | —                                | Video download & streaming app — Expo React Native + Node.js backend          |
-| 🩺 **Hispir Care**         | ✅ Built  | —                                | Healthcare aide matching platform — Next.js frontend + API integration        |
-| 📋 **Montamo Portal**      | ✅ Built  | —                                | Pixel-perfect customer login portal — auth flows, dashboard & Zustand state   |
-| ❄️ **Al-Barrak AC Repair** | ✅ Live   | —                                | Service business website — booking, maps, animations & lead capture           |
-
----
-
 ## 💻 Tech Stack
 
 <h2 align="center">🖥 Frontend</h2>
@@ -234,9 +159,11 @@ I build **high-performance, scalable, and mobile-first web applications** at **[
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohail-brohi/sohail-brohi/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sohail-brohi/sohail-brohi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sohail-brohi/sohail-brohi/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/sohail-brohi/sohail-brohi/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 
@@ -271,23 +198,14 @@ I build **high-performance, scalable, and mobile-first web applications** at **[
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/sohail-brohi" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="45"/>
+  <a href="https://www.linkedin.com/in/muhammad-sohail-brohi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
   </a>
-  <a href="https://codebotx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBotX" height="35" width="45"/>
+  <a href="mailto:msohailkhan278@gmail.com" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail" height="35" width="45"/>
   </a>
-  <a href="https://samplethis.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SampleThis" height="35" width="45"/>
-  </a>
-  <a href="https://medipek.de" target="_blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="MediPek" height="35" width="45"/>
-  </a>
-  <a href="https://hilmabiocare.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hilma Biocare" height="35" width="45"/>
-  </a>
-  <a href="https://wayveuk.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Wayve" height="35" width="45"/>
+  <a href="https://www.instagram.com/sohail_brohi1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45"/>
   </a>
 </p>
 
