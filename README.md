@@ -205,7 +205,7 @@ I build **high-performance, scalable, and mobile-first web applications** — tu
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
   </a>
   <a href="https://sohail-brohi-portfolio.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="35" width="45"/>
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="35" width="45"/>
   </a>
   <a href="mailto:msohailkhan278@gmail.com" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail" height="35" width="45"/>
