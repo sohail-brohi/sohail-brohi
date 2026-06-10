@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sohail-brohi">
+  <a href="mailto:msohailkhan278@gmail.com">
     <img src="https://img.shields.io/badge/Open%20to%20Work-%2300FFFF?style=for-the-badge&logo=briefcase&logoColor=black" alt="Open to Work"/>
   </a>
-  <a href="https://samplethis.com">
+  <a href="https://sohail-brohi-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
-  <a href="https://codebotx.com">
-    <img src="https://img.shields.io/badge/CodeBotX-Visit%20Now-00FFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="CodeBotX"/>
+  <a href="https://www.linkedin.com/in/muhammad-sohail-brohi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -42,10 +42,13 @@
 
 Hi! I'm **Muhammad Sohail**, a passionate **Full Stack / MERN Stack Developer** from 🇵🇰 _Dera Ghazi Khan, Punjab, Pakistan_.
 
-I build **high-performance, scalable, and mobile-first web applications** at **[CodeBotX](https://codebotx.com)** — bridging creativity and technology to deliver real-world products with clean, maintainable code. I care deeply about the _why_ behind every line of code, not just the _how_.
+I build **high-performance, scalable, and mobile-first web applications** — turning ideas into clean, production-ready products for clients and startups. I care deeply about the _why_ behind every line of code, not just the _how_.
 
-- 💼 Full Stack Developer at **CodeBotX** — MERN + Next.js
-- 🎵 Shipping **production apps** — marketplaces, e-commerce & SaaS platforms
+🌐 **Portfolio:** [sohail-brohi-portfolio.vercel.app](https://sohail-brohi-portfolio.vercel.app/)
+
+- 💼 **Freelance Full Stack Developer** — MERN + Next.js
+- 🚀 Open to **freelance, remote & full-time** opportunities
+- 🎵 Experienced in **production apps** — marketplaces, e-commerce & SaaS platforms
 - 📱 Hands-on with **React Native**, Expo & modern mobile-first UIs
 - 🧠 Learning **system design & scalable architecture**
 - 🎯 Goal: Grow as a **top-tier full-stack engineer**
@@ -57,7 +60,7 @@ I build **high-performance, scalable, and mobile-first web applications** at **[
 ## 🔥 Currently
 
 ```text
-🏗  Building    →  SampleThis marketplace · client SaaS apps & e-commerce platforms
+🏗  Building    →  Client SaaS apps, e-commerce platforms & personal projects
 📖  Learning    →  System Design · Next.js patterns · React Native
 🤝  Looking for →  Freelance projects, open-source collabs & full-time roles
 ```
@@ -81,7 +84,7 @@ I build **high-performance, scalable, and mobile-first web applications** at **[
 | 🔩 **Backend Thinking** | REST APIs, auth flows, DB schema design — I think end-to-end          |
 | 🧪 **Quality Mindset**  | I test, optimize, and refactor — not just ship and forget             |
 | 📣 **Communication**    | Clear, async, no hand-holding needed                                  |
-| 📈 **Growth Rate**      | Promoted from ASE to Full Stack — I learn fast and deliver            |
+| 📈 **Growth Rate**      | 3+ years shipping production apps — I learn fast and deliver        |
 
 ---
 
@@ -200,6 +203,9 @@ I build **high-performance, scalable, and mobile-first web applications** at **[
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-sohail-brohi" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
+  </a>
+  <a href="https://sohail-brohi-portfolio.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="35" width="45"/>
   </a>
   <a href="mailto:msohailkhan278@gmail.com" target="_blank">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-1024.png" alt="Gmail" height="35" width="45"/>
