@@ -40,7 +40,7 @@
 
 </div>
 
-Hi! I'm **Muhammad Sohail**, a passionate **Full Stack / MERN Stack Developer** from 🇵🇰 _Dera Ghazi Khan, Punjab, Pakistan_.
+Hi! I'm **Muhammad Sohail**, a passionate **Full Stack / MERN Stack Developer** from 🇵🇰 _Lahore, Punjab, Pakistan_.
 
 I build **high-performance, scalable, and mobile-first web applications** — turning ideas into clean, production-ready products for clients and startups. I care deeply about the _why_ behind every line of code, not just the _how_.
 
